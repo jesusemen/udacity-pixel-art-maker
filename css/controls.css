@@ -1,0 +1,15 @@
+#controls{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #727070;
+    background-color:#ffffff;
+    grid-area: controls;
+    width: 70%;
+    border-radius: 15px 15px 7px 7px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    
+}
